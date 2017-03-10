@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CETis1084av_App002</string>
+    <string name="editText1">Ingresar número 1</string>
+    <string name="editText2">Ingresar número 2</string>
+    <string name="txtView">00</string>
+    <string name="btnSuma">Sumar</string>
+    <string name="btnResta">Restar</string>
+    <string name="btnMult">Multiplicar</string>
+    <string name="btnDiv">Dividir</string>
+</resources>
